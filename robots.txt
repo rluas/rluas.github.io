@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rluas.csgad.com/miA/sitemap.xml.gz
